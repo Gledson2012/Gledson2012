@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gemini.google.com/share/dbf6d4aad841" width="100%">
+  <img src="https://i.pinimg.com/1200x/8d/80/42/8d8042af75b75f6651edc94ba1005d58.jpg" width="100%">
 </p>
 
 
