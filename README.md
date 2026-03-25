@@ -1,78 +1,40 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,100:00c4ff&height=200&section=header&text=Gledson%20Crist&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Tecnólogo%20em%20Análise%20e%20Desenvolvimento%20de%20Sistemas" width="100%"/>
-</p>
+# Olá, eu sou o Gledson! 👋
 
-<!-- Badges -->
-<p align="center">
-  <a href="https://github.com/Gledson2012">
-    <img src="https://img.shields.io/github/followers/Gledson2012?label=Seguidores&style=flat-square&color=00c4ff" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Gledson2012&label=Visualizações&color=007bff&style=flat-square" />
-  <img src="https://img.shields.io/badge/Linux-Arch%20|%20openSUSE%20|%20Fedora-00c4ff?style=flat-square&logo=linux&logoColor=white" />
-</p>
+### Full Stack Developer | Mobile Enthusiast | Problem Solver
 
 ---
 
-### 👋 Olá, eu sou **Gledson Crist**
-> 💻 Tecnólogo em Análise e Desenvolvimento de Sistemas  
-> 🚀 Sempre aprendendo e desenvolvendo novas ideias  
+### 🚀 Sobre Mim
+- 🔭 Atualmente trabalhando em projetos de **Java** e **PHP**.
+- 🌱 Estudando arquitetura de microserviços e novas stacks Mobile.
+- 💬 Pergunte-me sobre: Desenvolvimento Web, Integração de APIs e Banco de Dados.
 
 ---
 
-### 🧠 Sobre mim
+### 🛠️ Minhas Tech Stack
 
-- 🎯 Apaixonado por tecnologia, código limpo e sistemas eficientes  
-- 🧩 Gosto de criar **aplicativos, automações e scripts Linux**  
-- 🎮 Nas horas vagas: música, games e explorar novas ferramentas  
+**Linguagens & Frameworks**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-| Categoria | Ferramentas |
-|------------|-------------|
-| 💻 Linguagens | Python, Java, Kotlin, Bash |
-| 🧰 Frameworks | Kivy, Flask, Streamlit |
-| 🧪 IDEs | VS Code, PyCharm, Android Studio |
-| ⚙️ SOs | Arch Linux, openSUSE, Fedora |
-| 🧠 Outros | Git, Docker, Postman, Shell Script |
-
----
-
-### 📦 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|----------|------------|-------------|
-| 🎧 **RadioOnline_Moderno** | Rádio online com interface moderna em Python/Kivy. | Python, Kivy |
-| 🛒 **App Mercado** | App Android para calcular e anotar compras. | Kotlin, Android Studio |
-| 🧰 **Linux Dev Setup** | Script de pós-instalação completo para devs Linux. | Bash, Linux |
+**Ferramentas & Infra**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gledson2012&show_icons=true&theme=tokyonight&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gledson2012&layout=compact&theme=tokyonight" height="165"/>
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gledson2012&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gledson2012&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔗 Contatos
-
-<p align="center">
-  💼 <a href="https://github.com/Gledson2012">GitHub</a>  
-  ✉️ gledson.crist@example.com (substitua pelo seu e-mail público)  
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c4ff,100:007bff&height=120&section=footer"/>
-</p>
-
-<p align="center">
-  <b>“A tecnologia move o mundo, e o conhecimento transforma pessoas.”</b><br>
-  💡 Sempre aprendendo. Sempre evoluindo.
-</p>
+### 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
