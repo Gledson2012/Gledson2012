@@ -1,5 +1,6 @@
-<img src="https://capsule-render.vercel.app/r![Uploading Gemini_Generated_Image_f6b9o6f6b9o6f6b9.png…]()
-ender?type=soft&color=auto&height=200&section=header&text=Gledson%20Dev&fontSize=70" />
+<p align="center">
+  <img src="https://gemini.google.com/share/dbf6d4aad841" width="100%">
+</p>
 
 
 # Olá, eu sou o Gledson! 👋
